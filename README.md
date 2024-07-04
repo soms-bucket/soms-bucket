@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somnath</h1>
 <h3 align="center">Dev;</h3>
-<img align="right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" />
+<img align="right" alt="Coding" width= "400" src="https://raw.githubusercontent.com/soms-bucket/soms-bucket/main/doc/output-onlinegiftools.gif" />
 
 
 - 🔭 I’m currently working on **Spring Rest**
