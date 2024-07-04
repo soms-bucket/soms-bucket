@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Somnath</h1>
+<h1 style="color:red;" align="center">Hi 👋, I'm Somnath</h1>
 <h3 align="center">Dev;</h3>
-<img align="right" alt="Coding" width= "400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYzNGkyeHBpbTlmdWs2Y2FxN3l6eXZvcmR1aDN1cW5qcDRzd2gxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
+<img align="right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" />
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soms-bucket&label=Profile%20views&color=0e75b6&style=flat" alt="soms-bucket" /> </p>
 -->
