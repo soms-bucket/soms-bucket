@@ -1,12 +1,19 @@
-<h1 style="color:red;" align="center">Hi 👋, I'm Somnath</h1>
+<h1 align="center">Hi 👋, I'm Somnath</h1>
 <h3 align="center">Dev;</h3>
 <img align="right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" />
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soms-bucket&label=Profile%20views&color=0e75b6&style=flat" alt="soms-bucket" /> </p>
--->
+
+
 - 🔭 I’m currently working on **Spring Rest**
 
+- 🌱 I’m currently learning **Spring Boot, Anguler**
+
+- 👯 I’m looking to collaborate on **_**
+
 - 💬 Ask me about **Java, Spring, Python**
+
+- 📫 How to reach me **_**
+
+- 📄 Know about my experiences [_](_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
