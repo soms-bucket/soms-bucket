@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Spring Boot, Anguler**
 
-- 👯 I’m looking to collaborate on **_**
-
 - 👨‍💻 All of my projects are available at [_](_)
 
 - 💬 Ask me about **Java, Spring, Python**
